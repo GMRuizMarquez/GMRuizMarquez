@@ -12,10 +12,10 @@ Blending legal expertise with cutting-edge technology, I bridge the gap between 
 HTML | CSS | RESTful APIs
 
 🛠️ Tools & Frameworks:
-Git | VS Code | React Native
+Git | VS Code | React Native | JavaScript | React |
 
 📈 Current Learning Journey:
-JavaScript | React | Python | Node.js 
+Python | Node.js 
 
 💼 Open to Collaboration On:
 Legal Tech Solutions | Innovative Projects
